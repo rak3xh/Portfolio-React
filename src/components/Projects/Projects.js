@@ -72,7 +72,7 @@ function Projects() {
               title="Portfolio Website"
               description="It is a portfolio website designed for web developers to showcase their projects to tell about themselves and if anyone wants to hire them."
               ghLink="https://github.com/rak3xh/Portfolio-React"
-              demoLink=""
+              demoLink="https://rak3xh-portfolio.vercel.app/"
               
             />
           </Col>
