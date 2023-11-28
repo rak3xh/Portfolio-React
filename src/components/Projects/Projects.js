@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import or2s from "../../Assets/Projects/1.png";
+import ttt from "../../Assets/Projects/2.png";
+import qr from "../../Assets/Projects/3.png";
+import love from "../../Assets/Projects/4.png";
+import port from "../../Assets/Projects/5.png";
+import dict from "../../Assets/Projects/6.png";
 
 function Projects() {
   return (
@@ -23,68 +23,69 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={or2s}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="OR2S"
+              description="Online Railway Reservation System made in Html CSS and Js with features like seamless UI, Multilinguality, Voice to Search option and many more."
+              ghLink="https://github.com/rak3xh/or2s-project"
+              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={ttt}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Tic-Tac-Toe"
+              description="It is a Tic-Tac-Toe game website specially designed for its unique interface and 2 mode playing options(either vs Computer or vs Player.It is developed using HTML,CSS,Js"
+              ghLink="https://github.com/rak3xh/tic-tac-toe-game"
+              demoLink="https://tic-tac-toe-game-ashen-two.vercel.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={qr}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Interactive-Payment QR code"
+              description="Nowadays almost every shop and almost everyone is using UPI. This Website is Designed to make the qr code of any payment app Interactive and pretty to watch. "
+              ghLink="https://github.com/rak3xh/Interactive-qr-code"
+              demoLink="https://interactive-qr-code.vercel.app/"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={love}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Love-Link"
+              description="A web application that leverages pure WebRTC protocal, Google Firestore as a signaling server, and Chromium Tab sharing protocal to allow screen sharing with audio, which enable the ability for folks to catch up and enjoy music and videos together despite the distance."
+              ghLink="https://github.com/rak3xh/love-link"
+              demoLink="https://love-link.vercel.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={port}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Portfolio Website"
+              description="It is a portfolio website designed for web developers to showcase their projects to tell about themselves and if anyone wants to hire them."
+              ghLink="https://github.com/rak3xh/Portfolio-React"
+              demoLink=""
+              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={dict}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Dictionary-n-Pronouncer"
+              description="A Web apllication developed to work as a dictionary and prouncer for any meaningful word in English Vocabulary, day and night mode features are also given. "
+              ghLink="https://github.com/rak3xh/Dictionary-n-Pronouncer"
+              demoLink="https://incredible-torrone-c19f4f.netlify.app/"
+              
             />
           </Col>
         </Row>

@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website <br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">rak3xh.dev</a>
 </h2>
 
