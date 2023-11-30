@@ -4,7 +4,7 @@
 </h2>
 
 <br/>
-
+<div>
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
@@ -12,7 +12,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 </center>
-
+</div>
 <h3 align="center">
     🔹
     <a href="https://github.com/rak3xh/Portfolio-React/issues">Report Bug</a> &nbsp; &nbsp;
