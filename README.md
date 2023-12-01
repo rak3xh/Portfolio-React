@@ -1,7 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   Portfolio Website <br/>
-  <a href="https://rak3xh-portfolio.vercel.app/" target="_blank">rak3xh.dev</a>
-</h2>
+  <p align="center">
+  <a href="https://rak3xh-portfolio.vercel.app/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/021/971/593/non_2x/click-cursor-icon-with-click-here-button-free-png.png"alt="Website"height="40"width="120"></a></p>
+</h1>
 
 <br/>
 <div>
@@ -22,18 +23,18 @@
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rak3xh](https://github.com/rak3xh/Portfolio-React). Thanks!
 
-## Built With
+---
 
-My personal portfolio <a href="https://rak3xh-portfolio.vercel.app/" target="_blank">rak3xh.dev</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## Built With :
 
-This project was built using these technologies.
+**This project was built using these technologies.**
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+- <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+- <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+- <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- <img src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
 
 ## Features
 
@@ -45,7 +46,16 @@ This project was built using these technologies.
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone down this repository.
+
+<p>
+
+```bash
+git clone https://github.com/rak3xh/Portfolio-React.git
+```
+
+</p>
+ <p>You will need `node.js` and `git` installed globally on your machine.</p>
 
 ## 🛠 Installation and Setup Instructions
 
