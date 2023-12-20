@@ -6,8 +6,9 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  
 } from "react-icons/ai";
-import { FaLinkedinIn, FaSteam } from "react-icons/fa";
+import { FaLinkedinIn, FaSteam, FaTwitter, } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -80,7 +81,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <FaTwitter />
                 </a>
               </li>
               <li className="social-icons">
