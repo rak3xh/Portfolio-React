@@ -8,6 +8,8 @@ import qr from "../../Assets/Projects/3.png";
 import love from "../../Assets/Projects/4.png";
 import port from "../../Assets/Projects/5.png";
 import dict from "../../Assets/Projects/6.png";
+import ispo from "../../Assets/Projects/7.png";
+import weath from "../../Assets/Projects/8.png";
 
 function Projects() {
   return (
@@ -28,7 +30,6 @@ function Projects() {
               title="OR2S"
               description="Online Railway Reservation System made in Html CSS and Js with features like seamless UI, Multilinguality, Voice to Search option and many more."
               ghLink="https://github.com/rak3xh/or2s-project"
-              
             />
           </Col>
 
@@ -50,7 +51,7 @@ function Projects() {
               title="Interactive-Payment QR code"
               description="Nowadays almost every shop and almost everyone is using UPI. This Website is Designed to make the qr code of any payment app Interactive and pretty to watch. "
               ghLink="https://github.com/rak3xh/Interactive-qr-code"
-              demoLink="https://interactive-qr-code.vercel.app/"              
+              demoLink="https://interactive-qr-code.vercel.app/"
             />
           </Col>
 
@@ -73,7 +74,6 @@ function Projects() {
               description="It is a portfolio website designed for web developers to showcase their projects to tell about themselves and if anyone wants to hire them."
               ghLink="https://github.com/rak3xh/Portfolio-React"
               demoLink="https://rak3xh-portfolio.vercel.app/"
-              
             />
           </Col>
 
@@ -85,7 +85,28 @@ function Projects() {
               description="A Web apllication developed to work as a dictionary and prouncer for any meaningful word in English Vocabulary, day and night mode features are also given. "
               ghLink="https://github.com/rak3xh/Dictionary-n-Pronouncer"
               demoLink="https://incredible-torrone-c19f4f.netlify.app/"
-              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ispo}
+              isBlog={false}
+              title="Ispotifyy-Music-App"
+              description="A Web apllication developed for listening music according to your playlist with all the music control and volume control features. The website is responsive for all platform devices and can dynamically fetch and play songs that are stored in the libraries."
+              ghLink="https://github.com/rak3xh/ispotifyy-music-app"
+              demoLink="https://ispotifyy-music-app.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weath}
+              isBlog={false}
+              title="Know-The-Weather"
+              description="A Web apllication developed to show the weather of a city which is located anywhere in the world alongside with next seven days forecasting ability and all the necessary details like UV Index, AQI Index, etc. "
+              ghLink="https://github.com/rak3xh/know-the-weather"
+              demoLink="https://know-the-weather-rak3xh.vercel.app/"
             />
           </Col>
         </Row>
