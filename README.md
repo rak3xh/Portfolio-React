@@ -5,15 +5,26 @@
 </h1>
 
 <br/>
-<div>
-<center>
+
+
+<div align="center">
+=======
+
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
+
+</div>
+
+---
+
+=======
 </center>
 </div>
+
 <h3 align="center">
     🔹
     <a href="https://github.com/rak3xh/Portfolio-React/issues">Report Bug</a> &nbsp; &nbsp;
@@ -21,7 +32,13 @@
     <a href="https://github.com/rak3xh/Portfolio-React/issues">Request Feature</a>
 </h3>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rak3xh](https://github.com/rak3xh/Portfolio-React). Thanks!
+---
+
+<img align="center" src="https://i.ibb.co/2YW7xmq/Screenshot-2024-01-03-022943.png" alt="screenshot">
+
+---
+
+**You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rak3xh](https://github.com/rak3xh/Portfolio-React). Thanks!**
 
 ---
 
