@@ -6,24 +6,15 @@
 
 <br/>
 
-
 <div align="center">
-=======
-
-
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
-
 </div>
 
 ---
-
-=======
-</center>
-</div>
 
 <h3 align="center">
     🔹
@@ -34,7 +25,7 @@
 
 ---
 
-<img align="center" src="https://i.ibb.co/2YW7xmq/Screenshot-2024-01-03-022943.png" alt="screenshot">
+<p align="center"><img  src="https://i.ibb.co/2YW7xmq/Screenshot-2024-01-03-022943.png" alt="screenshot"></p>
 
 ---
 
