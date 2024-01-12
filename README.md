@@ -8,7 +8,7 @@
 
 
 <div align="center">
-=======
+
 
 
 
@@ -21,9 +21,8 @@
 
 ---
 
-=======
-</center>
-</div>
+
+
 
 <h3 align="center">
     🔹
@@ -34,7 +33,7 @@
 
 ---
 
-<img align="center" src="https://i.ibb.co/2YW7xmq/Screenshot-2024-01-03-022943.png" alt="screenshot">
+<p align="center"><img  src="https://i.ibb.co/2YW7xmq/Screenshot-2024-01-03-022943.png" alt="screenshot"></p>
 
 ---
 
