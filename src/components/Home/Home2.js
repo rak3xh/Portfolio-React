@@ -6,9 +6,8 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
-  
 } from "react-icons/ai";
-import { FaLinkedinIn, FaSteam, FaTwitter, } from "react-icons/fa";
+import { FaLinkedinIn, FaSteam, FaTwitter } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -28,13 +27,34 @@ function Home2() {
                 <b className="purple"> C, C++, Java, HTML, CSS & Js </b>
               </i>
               <br />
+              <br /> I’m currently working on{" "}
+              <i>
+                {" "}
+                <b className="purple">Data Structures and Algorithms (DSA).</b>
+              </i>
+              <br />
+              <br />
+              You can check my{" "}
+              <a href="https://github.com/rak3xh" target="_blank">
+                <b className="purple">GitHub</b>
+              </a>{" "}
+              profile for all the{" "}
+              <i>
+                <b className="purple">Coding Platform</b>
+              </i>
+               profile links.
+              <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b></i> and 
-                <i>  <b className="purple"> milimastic games
-                </b> </i>using different languages like C++, python.
-              
+                <b className="purple">Web Technologies and Products </b>
+              </i>{" "}
+              and
+              <i>
+                {" "}
+                <b className="purple"> milimastic games</b>{" "}
+              </i>
+              using different languages like C++, python.
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
@@ -61,7 +81,8 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me and <span className="purple">follow </span>me
+              Feel free to <span className="purple">connect </span>with me and{" "}
+              <span className="purple">follow </span>me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
